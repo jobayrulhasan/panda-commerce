@@ -1,6 +1,40 @@
 .container{
-    margin-bottom:80px;
+    margin-bottom:100px;
 }
 .orange-bg{
     background-color: #fceae8;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.habib h1{
+    color: white;
+}
+.habib img{
+    width: 100px;
+}
+.card{
+    border-radius: 10px;
+    border:none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-radius: 10px;
+    background-color: white;
+    border-top: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#subscribe h6{
+    color: gray;
+
 }
